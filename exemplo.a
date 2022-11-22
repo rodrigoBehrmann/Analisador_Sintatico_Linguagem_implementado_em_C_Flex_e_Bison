@@ -1,7 +1,0 @@
-VAR lado, resultado;
-
-BEGIN
-	lado:= 4;
-	resultado := lado*lado;
-	PRINT resultado;
-END.
